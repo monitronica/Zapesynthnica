@@ -2,9 +2,11 @@
 
 > A light-playable, wearable stepped-tone synthesizer for curious hands and ears.
 
+**A project by monitronica**
+
 ![A finished ZapeSYNTHnica worn on the wrist](images/zapesynthnica-wrist-synthesizer.png)
 
-*A finished ZapeSYNTHnica worn as a bracelet. Photo: Klemen Šali and Monika Pocrnjić, from the [konS ZapeSYNTHnica labbook](https://wiki.alphawave.si/doku.php?id=kons:monika), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
+*A finished ZapeSYNTHnica worn as a bracelet. Photo: Klemen Šali and monitronica, from the [konS ZapeSYNTHnica labbook](https://wiki.alphawave.si/doku.php?id=kons:monika), licensed [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).*
 
 ## Project overview
 
@@ -18,7 +20,7 @@ At the heart of ZapeSYNTHnica is the classic **stepped-tone generator**. Forrest
 
 ZapeSYNTHnica keeps that deliberately simple analog idea and gives it a wearable, tactile form. Its circuit board is not just a support for components: it is also the body, control surface, and visual identity of the instrument. The design grew through hands-on workshop practice, where making, listening, troubleshooting, and improvising happen together.
 
-The workshop was developed by **Monika Pocrnjić and Klemen Šali** within *Spajkalčki*, a community of creative gatherings for exploring contemporary technologies and practical educational formats. The konS labbook presents the project as a beginner-friendly activity for ages 9 and up. A special limited board version was later designed for a 2023 workshop at Radiona in Zagreb.
+The workshop was developed by **monitronica and Klemen Šali** within *Spajkalčki*, a community of creative gatherings for exploring contemporary technologies and practical educational formats. The konS labbook presents the project as a beginner-friendly activity for ages 9 and up. A special limited board version was later designed for a 2023 workshop at Radiona in Zagreb.
 
 ## How ZapeSYNTHnica works
 
@@ -63,7 +65,7 @@ The example PCB was created in **KiCad 5** with the [Svg2Shenzhen](https://githu
 | Finished instrument | Circuit and construction |
 | --- | --- |
 | [![ZapeSYNTHnica worn on the wrist](images/zapesynthnica-wrist-synthesizer.png)](images/zapesynthnica-wrist-synthesizer.png) | The [konS labbook](https://wiki.alphawave.si/doku.php?id=kons:monika) contains the schematic, component placement, step-by-step soldering photographs, polarity guidance, and troubleshooting notes. |
-| Bracelet with populated PCB and controls. Photo: Klemen Šali and Monika Pocrnjić, CC BY 4.0. | Additional workshop photographs: [Radiona, Zagreb (2023)](https://radiona.org/monika-pocrnjic-radionica-zapesynthnica/) and [Drugo More, Rijeka (2024)](https://www.flickr.com/photos/drugomore/sets/72177720318059783). These remain externally linked because reuse permission is not stated clearly. |
+| Bracelet with populated PCB and controls. Photo: Klemen Šali and monitronica, CC BY 4.0. | Additional workshop photographs: [Radiona, Zagreb (2023)](https://radiona.org/monika-pocrnjic-radionica-zapesynthnica/) and [Drugo More, Rijeka (2024)](https://www.flickr.com/photos/drugomore/sets/72177720318059783). These remain externally linked because reuse permission is not stated clearly. |
 
 Image provenance and reuse details are recorded in [images/README.md](images/README.md).
 
@@ -98,8 +100,9 @@ The project has appeared in konS educational programming in Maribor, including t
 
 ## Credits and acknowledgements
 
-- **Workshop concept, development, and labbook:** Klemen Šali and Monika Pocrnjić
-- **PCB design:** Monika Pocrnjić / MoniTronica; the board silkscreen also acknowledges inspiration from MONO Scarves
+- **Project and artistic direction:** monitronica
+- **Workshop concept, development, and labbook:** Klemen Šali and monitronica
+- **PCB design:** monitronica; the board silkscreen also acknowledges inspiration from MONO Scarves
 - **Workshop production and publication:** MKC Maribor and konS – Platform for Contemporary Investigative Art
 - **Original stepped-tone circuit:** Forrest M. Mims III
 - **“Atari Punk Console” name:** Kaustic Machines
@@ -117,4 +120,4 @@ The 2023 konS labbook states that its text and photographs are available under t
 - [Forrest Mims on the Atari Punk Console circuit](https://www.jameco.com/Jameco/workshop/DIY/atari-punk-console.html)
 - [NE556 dual timer datasheet, Texas Instruments](https://www.ti.com/lit/ds/symlink/ne556.pdf)
 - [Svg2Shenzhen](https://github.com/badgeek/svg2shenzhen)
-- [Monika Pocrnjić on GitHub](https://github.com/monitronica)
+- [monitronica on GitHub](https://github.com/monitronica)

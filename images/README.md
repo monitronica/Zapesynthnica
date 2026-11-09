@@ -5,9 +5,11 @@
 - **Subject:** A completed ZapeSYNTHnica mounted on a wrist strap and worn on a hand model
 - **Source:** [ZapeSYNTHnica labbook, konS Wiki](https://wiki.alphawave.si/doku.php?id=kons:monika)
 - **Original media file:** [`kons:17s.png`](https://wiki.alphawave.si/lib/exe/detail.php?id=kons%3Amonika&media=kons:17s.png)
-- **Photographers / creators:** Klemen Šali and Monika Pocrnjić, as credited in the labbook colophon
+- **Photographers / creators:** Klemen Šali and monitronica
 - **License:** [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 - **Changes:** Renamed for clarity; image content and dimensions are unchanged
+
+The source labbook colophon records monitronica under an earlier/legal-name credit. At the creator's request, this repository uses the public artist name **monitronica**. The original source link is retained for license provenance and historical traceability.
 
 ## Externally linked photographs
 
